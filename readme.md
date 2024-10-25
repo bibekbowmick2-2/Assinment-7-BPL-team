@@ -1,9 +1,4 @@
 
-## Private For your Assignment
-
-you have to create private repo in our Google Classroom . here is the Link
-
-# [https://classroom.github.com/a/8giEjBQc](https://classroom.github.com/a/8giEjBQc)
 
 
 
