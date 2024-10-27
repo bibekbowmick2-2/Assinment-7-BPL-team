@@ -2,7 +2,7 @@
 
 
 # Project Name: BPL Dream_11
-# Live Site Link: https://innate-hen.surge.sh/
+# Live Site Link: https://spotty-music.surge.sh/
 # Technologies used:
 - **React JS**
 - **Tailwind CSS**

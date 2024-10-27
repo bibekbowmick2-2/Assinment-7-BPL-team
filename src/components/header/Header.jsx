@@ -1,3 +1,5 @@
+
+import myImage3 from '../../../assets/dollar.png';
 const Header = (props) => {
     const {money}= props
     return (
@@ -10,7 +12,7 @@ const Header = (props) => {
                 <p>Picture</p>
                 <p>Teams</p>
                 <p>Schedules</p>
-               <button className="btn">{money} Coin <img src="assets/dollar.png" alt="" /></button>
+               <button className="btn">{money} Coin <img src={myImage3} alt="" /></button>
             </div>
         </div>
     );

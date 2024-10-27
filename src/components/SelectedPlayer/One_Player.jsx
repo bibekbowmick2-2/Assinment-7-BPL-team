@@ -1,5 +1,6 @@
 import React from 'react';
-import myImage from '../../assets/delete.png';
+
+import myImage4 from '../../../assets/delete.png';
 
 export default function One_Player({ data, handleDelete }) {
   const { playerId, image, name, type } = data;
@@ -19,7 +20,7 @@ export default function One_Player({ data, handleDelete }) {
 
       {/* Pass playerId directly to handleDelete */}
       <button onClick={() => handleDelete(playerId)} className="btn btn-sm">
-        <img className="h-7 w-7" src={myImage} alt="Delete Icon" />
+        <img className="h-7 w-7" src={myImage4} alt="Delete Icon" />
       </button>
     </div>
   );
