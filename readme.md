@@ -1,13 +1,29 @@
 
-## Private For your Assignment
-
-you have to create private repo in our Google Classroom . here is the Link
-
-# [https://classroom.github.com/a/8giEjBQc](https://classroom.github.com/a/8giEjBQc)
 
 
+# Project Name: BPL Dream_11
+# Live Site Link: https://innate-hen.surge.sh/
+# Technologies used:
+- **React JS**
+- **Tailwind CSS**
+- **Own API**
+- **Different packages of React JS**
+- **React Toastify**
 
-# <img width="30px" src="assets/logo.png"/> BPL-DREAM 11
+### Key Features
+
+- Player Selection: Options to choose players from different teams, including batsmen, bowlers, all-rounders, and wicketkeepers.
+
+- Player Stats: Detailed statistics and performance data for each player to help you make informed decisions.
+- Budget Tracker: A tool to keep track of your budget as you select players, ensuring you stay within the allowed limit.
+- Team Preview: A preview of your selected team, showing the balance and composition.
+Captain and Vice-Captain Selection: Options to choose a captain and vice-captain, who earn extra points.
+
+
+
+
+
+# <img width="30px" src="assets/logo.png"/> BPL-DREAM 11(Project Description)
 
 Welcome to **Assignment -07**. This assignment involves building a React-based application where users can select and manage cricket players for a team, following the design from Figma. You'll create a  UI, handle player selection, coin limitations, and complete the system following the requirements written below:
 

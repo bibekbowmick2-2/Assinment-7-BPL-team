@@ -1,8 +1,8 @@
-
+import myImage1 from '../../../assets/bg-shadow.png';
 const Subcribe = () => {
     return (
-        <div className="max-w-screen-lg mx-auto relative h-[300px] border-2 border-gray-300 p-5 rounded-lg my-5">
-            <div className="w-full h-full"><img className="w-full h-full rounded-lg"src="assets/bg-shadow.png" alt="" /></div>
+        <div className="max-w-screen-lg mx-auto absolute h-[350px] border-2 border-gray-300 p-5 rounded-lg my-5 bottom-[255px] left-0 right-0 bg-white">
+            <div className="w-full h-full"><img className="w-full h-full rounded-lg"src={myImage1} alt="" /></div>
             <div className="hero absolute top-0 bottom-0 left-0 right-0">
                 <div className="hero-content text-center">
                     <div className="max-w-md">

@@ -1,4 +1,5 @@
-const Header = () => {
+const Header = (props) => {
+    const {money}= props
     return (
         <div className="max-w-screen-xl mx-auto pt-12 pb-5 flex justify-between">
             <div className="">
@@ -9,7 +10,7 @@ const Header = () => {
                 <p>Picture</p>
                 <p>Teams</p>
                 <p>Schedules</p>
-               <button className="btn">0 Coin <img src="assets/dollar.png" alt="" /></button>
+               <button className="btn">{money} Coin <img src="assets/dollar.png" alt="" /></button>
             </div>
         </div>
     );

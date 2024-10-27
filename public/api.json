@@ -1,0 +1,94 @@
+[
+    {
+        "playerId": 1, 
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/BCy0qxF/download-9.jpg",
+      "price": 400,
+      "role": "Batsman",
+      "expertise": "Top-order",
+      "type": "Batsman"
+
+    },
+    {
+        "playerId": 2, 
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/dMWsh8M/download-2.jpg",
+      "price": 600,
+      "role": "Bowler",
+      "expertise": "Left-arm fast",
+      "type": "Bowler"
+    },
+    {
+        "playerId": 3, 
+      "name": "Jos Buttler",
+      "country": "England",
+      "image": "https://i.ibb.co.com/Yf4bTCX/download-3.jpg",
+      "price": 700,
+      "role": "Wicketkeeper Batsman",
+      "expertise": "Finisher",
+      "type": "Batsman"
+    },
+    {
+        "playerId": 4, 
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/bKRJNZn/download-4.jpg",
+      "price": 500,
+      "role": "Batsman",
+      "expertise": "Middle-order",
+      "type": "Batsman"
+    },
+    {
+        "playerId": 5, 
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/YTM5W3b/download-5.jpg",
+      "price": 800,
+      "role": "Bowler",
+      "expertise": "Leg-spin",
+      "type": "Bowler"
+    },
+    {
+        "playerId": 6, 
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/TMdFgxT/download-6.jpg",
+      "price": 450,
+      "role": "All-rounder",
+      "expertise": "Power-hitting",
+      "type": "All-rounder"
+    },
+    {
+        "playerId": 7, 
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/rcSv63n/download-7.jpg",
+      "price": 350,
+      "role": "Batsman",
+      "expertise": "Top-order",
+      "type": "Batsman"
+    },
+    {
+        "playerId": 8, 
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.ibb.co.com/6F3H6Y9/download-8.jpg",
+      "price": 700,
+      "role": "Bowler",
+      "expertise": "Death bowling",
+      "type": "Bowler"
+    },
+    {
+        "playerId": 9, 
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/xYh6PY6/download.jpg",
+      "price": 1000,
+      "role": "All-rounder",
+      "expertise": "Spin-bowling all-rounder",
+      "type": "All-rounder"
+    }
+  ]
+  
