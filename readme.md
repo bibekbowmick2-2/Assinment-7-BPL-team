@@ -1,8 +1,4 @@
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 58adf8135d0a08fe7dcb5c10e080f167fc01b9d6
 
 
 # Project Name: BPL Dream_11
